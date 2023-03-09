@@ -1,0 +1,1 @@
+sudo -u olad /home/pi/ola/olad/olad -l 4 --config-dir /etc/ola

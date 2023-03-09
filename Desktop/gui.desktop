@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Run GUI
+GenericName=GUI
+Comment=GUI
+StartupNotify=true
+Terminal=true
+Exec=sh -c 'python /home/pi/fog-gui.py ; sleep 5'
+Icon=python
+Type=Application
